@@ -13,3 +13,9 @@ $ git clone https://github.com/FancyGentlemen/Clear-Reinstall-Docker.git
 $ sudo chmod +x /parent_dir/Clear-Reinstall-Docker/docker_reborn.sh
 
 $ sudo /parent_dir/Clear-Reinstall-Docker/docker_reborn.sh
+
+Here are websites I referenced to make this:
+
+https://docs.docker.com/engine/install/ubuntu/
+
+https://stackoverflow.com/questions/42264617/how-to-repair-docker-or-reinstall-it
